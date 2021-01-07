@@ -1,1 +1,15 @@
-#Placeholder
+schema:             NET-NUM-SCHEMA
+ref:                apprptc.net-num
+key:                net-num    required  single   primary schema
+key:                net-name    required  single
+key:                descr      optional  single
+key:                mnt-by     required  multiple lookup=apprptc.mntner
+key:                member-of  optional  multiple lookup=apprptc.np-set
+key:                admin-c    optional  multiple lookup=apprptc.person,apprptc.role
+key:                tech-c     optional  multiple lookup=apprptc.person,apprptc.role
+key:                org        optional  single   lookup=apprptc.organisation
+key:                geo-loc    optional  multiple > [lat-c] [long-c] [name]
+key:                remarks    optional  multiple
+key:                source     required  single    lookup=apprptc.registry
+mnt-by:             APPRPT-MNT
+source:             APPRPTC

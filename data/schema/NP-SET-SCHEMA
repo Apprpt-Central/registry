@@ -1,0 +1,13 @@
+schema:             NP-SET-SCHEMA
+ref:                apprptc.np-set
+key:                np-set      required  single    primary schema
+key:                descr       optional  single
+key:                mnt-by      required  multiple  lookup=apprptc.mntner
+key:                members     optional  multiple  lookup=apprptc.net-num,apprptc.np-set
+key:                mbrs-by-ref optional  multiple  lookup=apprptc.mntner
+key:                admin-c     optional  multiple  lookup=apprptc.person,apprptc.role
+key:                tech-c      optional  multiple  lookup=apprptc.person,apprptc.role
+key:                remarks     optional  multiple
+key:                source      required  single    lookup=apprptc.registry
+mnt-by:             APPRPT-MNT
+source:             APPRPTC
