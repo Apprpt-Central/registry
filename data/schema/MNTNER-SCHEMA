@@ -1,0 +1,14 @@
+schema:             MNTNER-SCHEMA
+ref:                apprptc.mntner
+key:                mntner         required  single    primary schema
+key:                descr          optional  single
+key:                mnt-by         required  multiple  lookup=apprptc.mntner
+key:                admin-c        optional  multiple  lookup=apprptc.person,apprptc.role
+key:                tech-c         optional  multiple  lookup=apprptc.person,apprptc.role
+key:                auth           optional  multiple  > [method] [value]...
+key:                org            optional  multiple  lookup=apprptc.organisation
+key:                abuse-mailbox  optional  single
+key:                remarks        optional  multiple
+key:                source         required  single    lookup=apprptc.registry
+mnt-by:             APPRPT-MNT
+source:             APPRPTC

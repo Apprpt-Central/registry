@@ -1,0 +1,7 @@
+role:               PTTLINK ADMIN
+nic-hdl:            PTTLINK-ADMIN-APPRPTC
+abuse-mailbox:      abuse@pttlink.org
+org:                ORG-PTTLINK
+admin-c:            PTTLINK-ADMIN-APPRPTC
+mnt-by:             PTTLINK-MNT
+source:             APPRPTC

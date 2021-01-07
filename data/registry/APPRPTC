@@ -1,0 +1,4 @@
+registry:           APPRPTC
+url:                https://github.com/Apprpt-Central/registry.git
+mnt-by:             APPRPT-MNT
+source:             APPRPTC

@@ -1,0 +1,8 @@
+np-block:           NP10000-NP19999
+descr:              APPRPTC NP space for network allocation
+remarks:            This block is reserved for NP allocation
+remarks:            You can freely register any available NP in this block
+remarks:            Allocation is limited to one NP per network
+mnt-by:             APPRPT-MNT
+policy:             open
+source:             APPRPTC

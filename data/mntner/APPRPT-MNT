@@ -1,0 +1,9 @@
+mntner:             APPRPT-MNT
+descr:              APPRPT Central Registry Maintainer
+org:                ORG-APPRPT
+admin-c:            KG7QIN-APPRPTC
+tech-c:             KG7QIN-APPRPTC
+abuse-mailbox:      abuse@pttlink.org
+auth:               pgp-fingerprint 264A5E77AA88C9D2C116958BB3D33567544FCCEE
+mnt-by:             APPRPT-MNT
+source:             APPRPTC

@@ -1,0 +1,11 @@
+schema:             REGISTRY-SCHEMA
+ref:                apprptc.registry
+key:                registry   required  single    primary schema
+key:                url        required  multiple
+key:                descr      optional  multiple
+key:                mnt-by     required  multiple  lookup=apprptc.mntner
+key:                admin-c    optional  multiple  lookup=apprptc.person,apprptc.role
+key:                tech-c     optional  multiple  lookup=apprptc.person,apprptc.role
+key:                source     required  single    lookup=apprptc.registry
+mnt-by:             APPRPT-MNT
+source:             APPRPTC

@@ -1,0 +1,9 @@
+mntner:             PTTLINK-MNT
+descr:              PTTLink Network Maintainer 
+org:                ORG-PTTLINK
+admin-c:            PTTLINK-ADMIN-APPRPTC
+tech-c:             PTTLINK-TECH-APPRPTC
+abuse-mailbox:      abuse@pttlink.org
+auth:               pgp-fingerprint 264A5E77AA88C9D2C116958BB3D33567544FCCEE
+mnt-by:             PTTLINK-MNT
+source:             APPRPTC

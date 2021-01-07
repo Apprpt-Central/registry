@@ -1,0 +1,7 @@
+np-block:           NP00000-NP09999
+descr:              Root NP-BLOCK
+remarks:            This block is reserved to delegate access for sub-allocations.
+remarks:            You can not freely register any NP in this block.
+mnt-by:             APPRPT-MNT
+policy:             closed
+source:             APPRPTC

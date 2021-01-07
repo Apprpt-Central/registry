@@ -1,0 +1,6 @@
+np-block:           NP60000-NP69999
+descr:              Future APPRPTC use
+remarks:            This block is reserved for future APPRPTC use
+mnt-by:             APPRPT-MNT
+policy:             closed
+source:             APPRPTC

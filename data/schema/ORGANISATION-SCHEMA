@@ -1,0 +1,22 @@
+schema:             ORGANISATION-SCHEMA
+ref:                apprptc.organisation
+key:                organisation   required  single    primary schema
+key:                org-name       required  single
+key:                descr          optional  single
+key:                admin-c        optional  multiple  lookup=apprptc.person,apprptc.role
+key:                tech-c         optional  multiple  lookup=apprptc.person,apprptc.role
+key:                abuse-c        optional  multiple  lookup=apprptc.person,apprptc.role
+key:                mnt-by         required  multiple  lookup=apprptc.mntner
+key:                mnt-ref        optional  multiple  lookup=apprptc.mntner
+key:                phone          optional  multiple
+key:                fax-no         optional  multiple
+key:                www            optional  multiple
+key:                abuse-mailbox  optional  multiple
+key:                e-mail         optional  multiple
+key:                geoloc         optional  multiple
+key:                language       optional  multiple
+key:                remarks        optional  multiple
+key:                address        optional  multiple
+key:                source         required  single    lookup=apprptc.registry
+mnt-by:             APPRPT-MNT
+source:             APPRPTC
