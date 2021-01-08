@@ -1,3 +1,16 @@
+### 07 Jan 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
+
+Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.
+
+Due to WIP status applications (PRs) for Network Prefixes will be accepted in the coming few days.  Check back here for an announcement when 
+the registry is ready for use.
+
+In the meantime we invite you to explore the objects in the registry, wiki, and other items listed in this registry. 
+
+You can still submit issues related to problems found with the registry objects under the data directory.  
+
+---
+
 # Guide for creating a Pull Request
 
 1.  **Create a local clone of the registry repository**
