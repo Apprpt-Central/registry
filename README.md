@@ -9,6 +9,8 @@ In the meantime we invite you to explore the objects in the registry, wiki, and 
 
 You can still submit issues related to problems found with the registry objects under the data directory.  
 
+Looking for hlp or wish to join the discussion?  Visit [![Gitter chat](https://badges.gitter.im/Apprpt-Central/registry.png)](https://gitter.im/Apprpt-Central/registry)
+
 ---
 
 # Guide for creating a Pull Request
