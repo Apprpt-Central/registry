@@ -1,6 +1,6 @@
-### 07 Jan 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
+### 10 Jan 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
 
-Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.
+Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.  Note that the Getting Started section is being built and desribes how to use the registry.
 
 Due to WIP status applications (PRs) for Network Prefixes will be accepted in the coming few days.  Check back here for an announcement when 
 the registry is ready for use.
