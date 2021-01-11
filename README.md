@@ -1,15 +1,16 @@
 ### 10 Jan 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
 
-Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.  Note that the Getting Started section is being built and desribes how to use the registry.
+Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.  
+Note:  [Getting Started](https://github.com/Apprpt-Central/registry/wiki/Getting-Started) contains basic information on the main registry objects.
 
-Due to WIP status applications (PRs) for Network Prefixes will be accepted in the coming few days.  Check back here for an announcement when 
+Due to WIP status applications (PRs) for Network Prefixes will be accepted in the coming days.  Check back here for an announcement when 
 the registry is ready for use.
 
 In the meantime we invite you to explore the objects in the registry, wiki, and other items listed in this registry. 
 
 You can still submit issues related to problems found with the registry objects under the data directory.  
 
-Looking for hlp or wish to join the discussion?  Visit [![Gitter chat](https://badges.gitter.im/Apprpt-Central/registry.png)](https://gitter.im/Apprpt-Central/registry)
+Looking for help or wish to join the discussion?  Visit [![Gitter chat](https://badges.gitter.im/Apprpt-Central/registry.png)](https://gitter.im/Apprpt-Central/registry)
 
 ---
 
