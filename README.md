@@ -1,3 +1,16 @@
+<p align="right">
+    <a href="https://github.com/apprpt-central/registry/stargazers"><img src="https://img.shields.io/github/stars/apprpt-central/registry.svg?style=social&label=Star" style="margin-left:5em"></a>
+    <a href="https://github.com/apprpt-central/registry/network/members"><img src="https://img.shields.io/github/forks/apprpt-central/registry.svg?style=social&label=Fork"></a>
+    <a href="https://github.com/apprpt-central/registry/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/apprpt-central/registry?style=social"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Apprpt-Central/registry/wiki"><img src="https://img.shields.io/badge/Docs-wiki-blue.svg?style=for-the-badge"></a>
+    <a href="https://github.com/apprpt-central/registry/issues"><img src="https://img.shields.io/badge/Status%3F-WIP-orange.svg?style=for-the-badge"></a>
+    <a href="https://github.com/apprpt-central/registry/issues"><img src="https://img.shields.io/github/issues/apprpt-central/registry.svg?style=for-the-badge"></a>
+    <a href="https://github.com/apprpt-central/registry/pulls"><img src="https://img.shields.io/github/issues-pr/apprpt-central/registry.svg?style=for-the-badge"></a>
+</p>
+
 ### 10 Jan 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
 
 Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.  
