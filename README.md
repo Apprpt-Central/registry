@@ -11,7 +11,7 @@
     <a href="https://github.com/apprpt-central/registry/pulls"><img src="https://img.shields.io/github/issues-pr/apprpt-central/registry.svg?style=for-the-badge"></a>
 </p>
 
-### 10 feb 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
+### 10 Feb 21: WIP - This is a work in progress.  Please see the Issues and visit the Wiki for information regarding the status of this registry.
 
 Wiki is available here:  https://github.com/Apprpt-Central/registry/wiki.  Please be patient as this wiki is being built.  
 Note:  [Getting Started](https://github.com/Apprpt-Central/registry/wiki/Getting-Started) contains basic information on the main registry objects.
